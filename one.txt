@@ -1,2 +1,7 @@
+	<<<<<<< HEAD
 one is only one number.
 11
+=======
+one is only one number
+111.
+>>>>>>> devlop
